@@ -1,1 +1,1 @@
-# Netflix_Dataset_SQL_Project
+# Netflix Dataset SQL Project
