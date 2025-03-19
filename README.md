@@ -1,3 +1,6 @@
-# Netflix Dataset SQL Project
+# Netflix Dataset analysis using SQL
 
 ![Netflix Logo](https://github.com/mmujahed96/Netflix_Dataset_SQL_Project/blob/main/Netflix-Logo.png)
+
+## Objectives:
+
